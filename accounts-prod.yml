@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to saema accounts related to production "
+  contactDetails:
+    name: "sam - product owner"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 56436567675
+    - (555) 45656756756

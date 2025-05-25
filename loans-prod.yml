@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loan:
+  message: "Welcome to Saema Loan microservice Production environment"
+  contactDetails:
+    name: "Sarah White - Loan Product Owner"
+    email: "sarah.loan@eazybank.com"
+  onCallSupport:
+    - (555) 999-3344
+    - (555) 999-4455

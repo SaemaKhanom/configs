@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to saema accounts related to qa "
+  contactDetails:
+    name: "QA - DEV"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 3452435246
+    - (555) 454363676

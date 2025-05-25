@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+card:
+  message: "Welcome to Saema Card microservice local APIs"
+  contactDetails:
+    name: "Alice Smith - Card MS Developer"
+    email: "alice.card@eazybank.com"
+  onCallSupport:
+    - (555) 111-2233
+    - (555) 111-3344

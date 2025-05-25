@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+card:
+  message: "Welcome to Saema Card microservice Production environment"
+  contactDetails:
+    name: "Sam Peterson - Card Product Owner"
+    email: "0f10e1a3c68a375ad8575a0b56c05293c5093b23547a117402dfb75553a3d5b69b855f4daa16081e06b5d93309286b95"
+  onCallSupport:
+    - (555) 333-6677
+    - (555) 333-7788
