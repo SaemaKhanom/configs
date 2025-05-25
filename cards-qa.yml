@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-card:
+cards:
   message: "Welcome to Saema Card microservice QA environment"
   contactDetails:
     name: "QA Team - Card MS"
