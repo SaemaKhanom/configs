@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-card:
+cards:
   message: "Welcome to Saema Card microservi45347656754YRTGHEH5U56Y56i"
   contactDetails:
     name: "Sam Peterson - Card Product Owner"
